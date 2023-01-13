@@ -1,6 +1,6 @@
   Olá Mundo, eu sou Antônio Lino // Hello World, i'm Antônio Lino 
 
-- 🌱 Atualmente eu estudo front end e desenvolvimento mobile // Currently, I study front end and mobile development
+- 🌱 Atualmente eu estudo desenvolvimento fullstack e desenvolvimento mobile // Currently, I study fullstack development and mobile development
 - 📫 Como me contatar: antonioaplino@gmail. com // How to reach me: antonioaplino@gmail.com 
 - 😄 Ele/Dele // He/Him
 - ⚡ Fun fact: Eu estou cursando psicologia na faculdade e pretendo fazer ads paralelamente // I'm studying psychology in college and I intend to do ads at the same time
