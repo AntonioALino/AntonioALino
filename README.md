@@ -1,5 +1,5 @@
 ### Olá, Mundo!! Eu sou o Antônio Lino. 👋 // Hello, World!! I'm Antônio Lino. 👋 <break>
-### Atualmente eu estudo programação mobile. // Currently I study mobile development. <break>
+### Atualmente eu estudo programação com foco em desenvolvimento backend com Java. // Currently I study programming with a focus on backend development with Java. <break>
 ### Atualmente eu não trabalho, apenas curso análise e desenvolvimento de sistemas na faculdade. // Currently I don't work, I just study systems analysis and development in college. <break>
 ### Meus pronomes são Ele/Dele // My pronouns are He/Him
 
