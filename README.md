@@ -30,7 +30,7 @@ agora:
   estudando: "Pós Tech FIAP — Arquitetura de Sistemas .NET com Azure (2027)"
   construindo: "BornForThis.Tech"
   pesquisando: "HRV, EEG e eye tracking como marcadores afetivos em gameplay"
-  idiomas: ["Português (nativo)", "Inglês (C1)", "Espanhol (intermediário)"]
+  idiomas: ["Português (nativo)", "Inglês (C1)", "Espanhol (intermediário), Francês(Básico)"]
 ```
 
 ## 🛠️ Stack
